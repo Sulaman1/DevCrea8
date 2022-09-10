@@ -5,6 +5,11 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
     config.plugins.push(
      new webpack.ProvidePlugin({
