@@ -63,7 +63,7 @@ export default function MainPage() {
         <figure className="mx-auto max-w-screen-md text-center">
     <svg aria-hidden="true" className="mx-auto mb-3 w-12 h-20 text-white dark:text-white" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"/></svg>
     <blockquote>
-        <p className="text-4xl italic font-medium text-white dark:text-white">"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
+        <p className="text-4xl italic font-medium text-white dark:text-white">Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application.</p>
     </blockquote>
     <figcaption className="flex justify-center items-center mt-6 space-x-3">
         <img className="w-20 h-20 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="profile picture"/>
@@ -120,7 +120,7 @@ export default function MainPage() {
           <span className="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block">
           <span className="relative text-white">annoyed</span>
           </span>
-          all the time, people think that you're busy.
+          all the time, people think that you &apos; re busy.
         </blockquote>
         <a href="#" className="block mt-1 text-xl leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
         <p className="mt-2 text-slate-500">Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers. Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers.</p>
@@ -241,7 +241,7 @@ export default function MainPage() {
           <span className="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block">
           <span className="relative text-white">annoyed</span>
           </span>
-          all the time, people think that you're busy.
+          all the time, people think that you&apos;re busy.
         </blockquote>
         <a href="#" className="block mt-1 text-xl leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
         <p className="mt-2 text-slate-500">Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers. Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers.</p>
@@ -267,7 +267,7 @@ export default function MainPage() {
           <span className="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block">
           <span className="relative text-white">annoyed</span>
           </span>
-          all the time, people think that you're busy.
+          all the time, people think that you&apos;re busy.
         </blockquote>
         <a href="#" className="block mt-1 text-xl leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
         <p className="mt-2 text-slate-500">Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers. Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers.</p>
@@ -294,7 +294,7 @@ export default function MainPage() {
           <span className="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block">
           <span className="relative text-white">annoyed</span>
           </span>
-          all the time, people think that you're busy.
+          all the time, people think that you&apos;re busy.
         </blockquote>
         <a href="#" className="block mt-1 text-xl leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
         <p className="mt-2 text-slate-500">Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers. Getting a new business off the ground is a lot of hard work. Here are five ideas you can use to find your first customers.</p>
