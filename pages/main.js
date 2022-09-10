@@ -12,7 +12,7 @@ import MyNavbar from './mynavbar';
 // import check from "../public/static/main"
 
 
-export default function MainPage() {
+export default function MainPage2() {
 
 
 //   if (typeof window !== "undefined") {
